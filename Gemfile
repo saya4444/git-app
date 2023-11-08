@@ -71,4 +71,7 @@ group :test do
   gem "webdrivers"
 end
 
+<<<<<<< Updated upstream
 gem "devise"
+=======
+>>>>>>> Stashed changes
